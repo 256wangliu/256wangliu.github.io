@@ -1,3 +1,3 @@
 ### Contact
 
-Liu Wang, Wang.Liu@mayo.edu
+Liu Wang, 256wangliu@gmail.com
