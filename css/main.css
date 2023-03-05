@@ -43,7 +43,7 @@ ul.ul-edu li .description p.institution {
 
 /* Hyperlinks */
 a:link, a:visited {
-  color: var(--red);
+  color: var(--blue);
 }
 
 a:hover {
